@@ -1,0 +1,43 @@
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\bin\Debug\ForestEscape.exe.config
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\bin\Debug\ForestEscape.exe
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\bin\Debug\ForestEscape.pdb
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\ForestEscape.csproj.AssemblyReference.cache
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\MainWindow.baml
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\MainWindow.g.cs
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\App.g.cs
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\ForestEscape_MarkupCompile.cache
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\ForestEscape.g.resources
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\ForestEscape.Properties.Resources.resources
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\ForestEscape.csproj.GenerateResource.cache
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\ForestEscape.csproj.CoreCompileInputs.cache
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\ForestEscape.exe
+C:\ROCNIKOVA PRACE\PoldaUnikovka\ForestEscape\ForestEscape\obj\Debug\ForestEscape.pdb
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\bin\Debug\ForestEscape.exe.config
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\bin\Debug\ForestEscape.exe
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\bin\Debug\ForestEscape.pdb
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.csproj.AssemblyReference.cache
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.exe.config
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\MainWindow.baml
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\MainWindow.g.cs
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\App.g.cs
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape_MarkupCompile.cache
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.g.resources
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.Properties.Resources.resources
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.csproj.GenerateResource.cache
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.csproj.CoreCompileInputs.cache
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.exe
+H:\Visual\Rocnikova_prace\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.pdb
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\bin\Debug\ForestEscape.exe.config
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\bin\Debug\ForestEscape.exe
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\bin\Debug\ForestEscape.pdb
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.csproj.AssemblyReference.cache
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\MainWindow.baml
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\MainWindow.g.cs
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\App.g.cs
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape_MarkupCompile.cache
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.g.resources
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.Properties.Resources.resources
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.csproj.GenerateResource.cache
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.csproj.CoreCompileInputs.cache
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.exe
+C:\6767\ForestEscape\ForestEscape\ForestEscape\ForestEscape\obj\Debug\ForestEscape.pdb
